@@ -1,0 +1,4 @@
+template
+========
+
+for ACM-ICPC
